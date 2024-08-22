@@ -10,6 +10,9 @@ To start the backend:\
 
 The frontend is written in JavaScript/React.\
 To start the frontend:\
+`npm install`\
 `npm start `\
 then open a web browser and navigate to `http://localhost:3000`
 
+
+![Word Game](https://www.dropbox.com/scl/fi/2965yl9piz16mdhu17kwj/wordgame.png?rlkey=k5tzbibddrvok49wkfgdxmqqg&st=kpxqods9&raw=1)
